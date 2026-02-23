@@ -31,8 +31,3 @@ This project develops an intelligent crop recommendation system that leverages d
 *   LIME (for local explainability)
 *   Matplotlib & Seaborn (for data visualization)
 *   Gradio (for interactive web interface)
-
-This project aims to empower farmers and agricultural experts with transparent, accurate, and understandable crop recommendations, fostering sustainable and efficient farming practices.
-
-in 350 words
-Here's a condensed version of the description, approximately 300 words, that you can use for your GitHub rep
