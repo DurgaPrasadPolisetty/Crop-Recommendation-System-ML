@@ -1,8 +1,4 @@
-# Crop-Recommendation-System-ML
-Intelligent Crop Recommendation System using Deep Learning (BiLSTM+Attention) and Explainable AI (LIME, PDP). Provides data-driven crop suggestions with transparency. Features an interactive Gradio interface for user input and detailed explanations. Optimize farming with AI insights!
-
-
-# Crop Recommendation System with Explainable AI (XAI)
+Crop Recommendation System with Explainable AI (XAI)
 
 This project develops an intelligent crop recommendation system that leverages deep learning and Explainable AI (XAI) techniques to provide data-driven insights for optimal agricultural practices. The system processes various datasets related to crop recommendation, fertilizer prediction, crop yield, and environmental parameters to recommend the most suitable crop for given soil and climatic conditions.
 
